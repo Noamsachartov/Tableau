@@ -1,6 +1,6 @@
 # Tableau
 
-priority to watch with the computer.
+priority to watch with computer.
 
 The Projects made at Tableau desktop
 To view my Tableau profile click --> https://public.tableau.com/profile/noam.sachartov#!/
